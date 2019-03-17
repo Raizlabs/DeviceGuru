@@ -599,18 +599,18 @@
 		<key>version</key>
 		<real>6.3</real>
 		<key>baseName</key>
-        <string>iPad Pro 9.7″</string>
+        <string>iPad Pro 9.7 inch</string>
 		<key>name</key>
-		<string>iPad Pro 9.7″ (Wi-Fi)</string>
+		<string>iPad Pro 9.7 inch (Wi-Fi)</string>
 	</dict>
 	<key>iPad6,4</key>
 	<dict>
 		<key>version</key>
 		<real>6.4</real>
 		<key>baseName</key>
-		<string>iPad Pro 9.7″</string>
+		<string>iPad Pro 9.7 inch</string>
 		<key>name</key>
-		<string>iPad Pro 9.7″ (Wi-Fi + Cellular)</string>
+		<string>iPad Pro 9.7 inch (Wi-Fi + Cellular)</string>
 	</dict>
 	<key>iPad6,7</key>
 	<dict>
@@ -635,144 +635,144 @@
 		<key>version</key>
 		<real>6.11</real>
 		<key>baseName</key>
-		<string>iPad 9.7″ 5th Gen</string>
+		<string>iPad 9.7 inch 5th Gen</string>
 		<key>name</key>
-		<string>iPad 9.7″ (Wi-Fi) 5th Gen</string>
+		<string>iPad 9.7 inch (Wi-Fi) 5th Gen</string>
 	</dict>
 	<key>iPad6,12</key>
 	<dict>
 		<key>version</key>
 		<real>6.12</real>
 		<key>baseName</key>
-		<string>iPad 9.7″ 5th Gen</string>
+		<string>iPad 9.7 inch 5th Gen</string>
 		<key>name</key>
-		<string>iPad 9.7″ (Wi-Fi + Cellular) 5th Gen</string>
+		<string>iPad 9.7 inch (Wi-Fi + Cellular) 5th Gen</string>
 	</dict>
 	<key>iPad7,1</key>
 	<dict>
 		<key>version</key>
 		<real>7.1</real>
 		<key>baseName</key>
-		<string>iPad Pro 12.9″</string>
+		<string>iPad Pro 12.9 inch</string>
 		<key>name</key>
-		<string>iPad Pro 12.9″ (Wi-Fi) 2nd Gen</string>
+		<string>iPad Pro 12.9 inch (Wi-Fi) 2nd Gen</string>
 	</dict>
 	<key>iPad7,2</key>
 	<dict>
 		<key>version</key>
 		<real>7.2</real>
 		<key>baseName</key>
-		<string>iPad Pro 12.9″ 2nd Gen</string>
+		<string>iPad Pro 12.9 inch 2nd Gen</string>
 		<key>name</key>
-		<string>iPad Pro 12.9″ (Wi-Fi + Cellular) 2nd Gen</string>
+		<string>iPad Pro 12.9 inch (Wi-Fi + Cellular) 2nd Gen</string>
 	</dict>
 	<key>iPad7,3</key>
 	<dict>
 		<key>version</key>
 		<real>7.3</real>
 		<key>baseName</key>
-		<string>iPad Pro 10.5″</string>
+		<string>iPad Pro 10.5 inch</string>
 		<key>name</key>
-		<string>iPad Pro 10.5″ (Wi-Fi)</string>
+		<string>iPad Pro 10.5 inch (Wi-Fi)</string>
 	</dict>
 	<key>iPad7,4</key>
 	<dict>
 		<key>version</key>
 		<real>7.4</real>
 		<key>baseName</key>
-		<string>iPad Pro 10.5″</string>
+		<string>iPad Pro 10.5 inch</string>
 		<key>name</key>
-		<string>iPad Pro 10.5″ (Wi-Fi + Cellular)</string>
+		<string>iPad Pro 10.5 inch (Wi-Fi + Cellular)</string>
 	</dict>
 	<key>iPad7,5</key>
 	<dict>
 		<key>version</key>
 		<real>7.5</real>
 		<key>baseName</key>
-		<string>iPad 9.7″ 6th Gen</string>
+		<string>iPad 9.7 inch 6th Gen</string>
 		<key>name</key>
-		<string>iPad 9.7″ (Wi-Fi) 6th Gen</string>
+		<string>iPad 9.7 inch (Wi-Fi) 6th Gen</string>
 	</dict>
 	<key>iPad7,6</key>
 	<dict>
 		<key>version</key>
 		<real>7.6</real>
 		<key>baseName</key>
-		<string>iPad 9.7″ 6th Gen</string>
+		<string>iPad 9.7 inch 6th Gen</string>
 		<key>name</key>
-		<string>iPad 9.7″ (Wi-Fi + Cellular) 6th Gen</string>
+		<string>iPad 9.7 inch (Wi-Fi + Cellular) 6th Gen</string>
 	</dict>
 	<key>iPad8,1</key>
 	<dict>
 		<key>version</key>
 		<real>8.1</real>
 		<key>baseName</key>
-		<string>iPad Pro 11″</string>
+		<string>iPad Pro 11 inch</string>
 		<key>name</key>
-		<string>iPad Pro 11″ (Wi-Fi)</string>
+		<string>iPad Pro 11 inch (Wi-Fi)</string>
 	</dict>
 	<key>iPad8,2</key>
 	<dict>
 		<key>version</key>
 		<real>8.2</real>
 		<key>baseName</key>
-		<string>iPad Pro 11″</string>
+		<string>iPad Pro 11 inch</string>
 		<key>name</key>
-		<string>iPad Pro 11″ 1TB (Wi-Fi)</string>
+		<string>iPad Pro 11 inch 1TB (Wi-Fi)</string>
 	</dict>
 	<key>iPad8,3</key>
 	<dict>
 		<key>version</key>
 		<real>8.3</real>
 		<key>baseName</key>
-		<string>iPad Pro 11″</string>
+		<string>iPad Pro 11 inch</string>
 		<key>name</key>
-		<string>iPad Pro 11″ (Wi-Fi + Cellular)</string>
+		<string>iPad Pro 11 inch (Wi-Fi + Cellular)</string>
 	</dict>
 	<key>iPad8,4</key>
 	<dict>
 		<key>version</key>
 		<real>8.4</real>
 		<key>baseName</key>
-		<string>iPad Pro 11″</string>
+		<string>iPad Pro 11 inch</string>
 		<key>name</key>
-		<string>iPad Pro 11″ 1TB (Wi-Fi + Cellular)</string>
+		<string>iPad Pro 11 inch 1TB (Wi-Fi + Cellular)</string>
 	</dict>
 	<key>iPad8,5</key>
 	<dict>
 		<key>version</key>
 		<real>8.5</real>
 		<key>baseName</key>
-		<string>iPad Pro 12.9″ 3rd Gen</string>
+		<string>iPad Pro 12.9 inch 3rd Gen</string>
 		<key>name</key>
-		<string>iPad Pro 12.9″ (Wi-Fi) 3rd Gen</string>
+		<string>iPad Pro 12.9 inch (Wi-Fi) 3rd Gen</string>
 	</dict>
 	<key>iPad8,6</key>
 	<dict>
 		<key>version</key>
 		<real>8.6</real>
 		<key>baseName</key>
-		<string>iPad Pro 12.9″ 3rd Gen</string>
+		<string>iPad Pro 12.9 inch 3rd Gen</string>
 		<key>name</key>
-		<string>iPad Pro 12.9″ 1TB (Wi-Fi) 3rd Gen</string>
+		<string>iPad Pro 12.9 inch 1TB (Wi-Fi) 3rd Gen</string>
 	</dict>
 	<key>iPad8,7</key>
 	<dict>
 		<key>version</key>
 		<real>8.7</real>
 		<key>baseName</key>
-		<string>iPad Pro 12.9″ 3rd Gen</string>
+		<string>iPad Pro 12.9 inch 3rd Gen</string>
 		<key>name</key>
-		<string>iPad Pro 12.9″ (Wi-Fi + Cellular) 3rd Gen</string>
+		<string>iPad Pro 12.9 inch (Wi-Fi + Cellular) 3rd Gen</string>
 	</dict>
 	<key>iPad8,8</key>
 	<dict>
 		<key>version</key>
 		<real>8.8</real>
 		<key>baseName</key>
-		<string>iPad Pro 12.9″ 3rd Gen</string>
+		<string>iPad Pro 12.9 inch 3rd Gen</string>
 		<key>name</key>
-		<string>iPad Pro 12.9″ 1TB (Wi-Fi + Cellular) 3rd Gen</string>
+		<string>iPad Pro 12.9 inch 1TB (Wi-Fi + Cellular) 3rd Gen</string>
 	</dict>
 	<key>appleTV1,1</key>
 	<dict>
